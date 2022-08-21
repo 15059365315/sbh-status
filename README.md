@@ -4,5 +4,5 @@
 服务商|域名
 --|--
 Cloudflare|https://sbh-status.pages.dev/
-Cloudflare|https://sbh-status.pages.dev/
+Cloudflare|https://status.sibaihua.top/
 
