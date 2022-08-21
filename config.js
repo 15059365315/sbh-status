@@ -27,7 +27,7 @@ window.Config = {
     },
     {
       text: '友人帐',
-      url: 'https://sibaihua.top/friends.html'
+      url: 'https://service.sibaihua.top/friends.html'
     },
   ],
 };
