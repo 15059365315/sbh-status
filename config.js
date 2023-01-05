@@ -7,8 +7,6 @@ window.Config = {
   // 支持 Monitor-Specific 和 Read-Only
   ApiKeys: [
     'm792432655-a68126826c6fe6cc9509797b',
-     'm792448770-25af2e3d82ecd9ceb51ea73f',
-     'm792515985-27d3f7bd114e64b980d0f8cd',
   ],
 
   // 日志天数
@@ -21,15 +19,15 @@ window.Config = {
   Navi: [
     {
       text: '首页',
-      url: 'https://sbh.rth1.one/'
+      url: 'https://status.sibaihua.top/'
     },
     {
       text: '博客',
       url: 'https://sibaihua.top'
     },
     {
-      text: '友人帐',
-      url: 'https://service.sibaihua.top/friends.html'
+      text: '友链',
+      url: 'https://sibaihua.top/friends'
     },
   ],
 };
